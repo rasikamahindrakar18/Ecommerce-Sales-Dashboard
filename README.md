@@ -3,12 +3,12 @@ Interactive Power BI dashboard analyzing E-Commerce sales data to track KPIs, id
 
 E-Commerce Sales Dashboard using Power BI
 
-📌 Project Overview:
+##📌 Project Overview:
 
 This project focuses on analyzing E-Commerce sales data using Power BI and designing an interactive dashboard to extract valuable business insights. The goal is to help stakeholders make data-driven decisions by visualizing KPIs and trends.
 
 
-🎯 Objective:
+##🎯 Objective:
 
 Track monthly sales and profit trends
 
@@ -19,7 +19,7 @@ Create interactive filters and slicers for dynamic exploration
 Calculate KPIs like Total Profit, Quantity, and AOV (Average Order Value)
 
 
-📂 Dataset Details:
+##📂 Dataset Details:
 
 Data Source: Public E-Commerce dataset
 Columns Included:
@@ -31,7 +31,7 @@ Category, Sub-Category, Payment Mode
 Amount, Profit, Quantity, AOV
 
 
-📈 Dashboard Features:
+##📈 Dashboard Features:
 
 KPI Cards: Total Quantity, Profit, Amount, and AOV
 
@@ -44,7 +44,7 @@ Column Charts: Profit by Month
 Slicers: Quarter, State for filtering data
 
 
-🛠 Tools & Techniques Used:
+##🛠 Tools & Techniques Used:
 
 Power BI
 
@@ -57,7 +57,7 @@ Data Modeling using relationships
 Custom Visualizations for storytelling
 
 
-💡 Project Learnings:
+##💡 Project Learnings:
 
 Created an interactive dashboard from raw data
 
@@ -68,7 +68,7 @@ Applied DAX functions for calculating KPIs
 Improved design skills to enhance dashboard usability
 
 
-📁 Repository Contents:
+##📁 Repository Contents:
 
 File/Folder	Description
 
