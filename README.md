@@ -70,7 +70,7 @@ Improved design skills to enhance dashboard usability
 
 ##📁 Repository Contents:
 
-File/Folder	Description
+File Description
 
 Order.xlsx and Details.xlsx	Dataset used
 
