@@ -71,7 +71,11 @@ Improved design skills to enhance dashboard usability
 📁 Repository Contents:
 
 File/Folder	Description
+
 Order.xlsx and Details.xlsx	Dataset used
+
 README.md	Project documentation
+
 Dashboard_Screenshot.png	Screenshot of the final dashboard
+
 Ecommerce_Sales_Dashboard_PowerBI.pptx	PPT summary of the project
