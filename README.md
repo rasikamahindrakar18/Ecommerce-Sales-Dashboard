@@ -78,4 +78,6 @@ README.md	Project documentation
 
 Dashboard_Screenshot.png	Screenshot of the final dashboard
 
+Power-BI_Dashboard.pbix
+
 Ecommerce_Sales_Dashboard_PowerBI.pptx	PPT summary of the project
